@@ -1,8 +1,8 @@
-# Original Post Install
+# SynergyOS Original Post Install
 
-This is the original SynergyOS post-install folder, kept here as a backup in case something doesn't work in the toolkit.
+This is the original [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS) post-install folder, kept here as a backup in case something doesn't work in the toolkit.
 
-Before SynToolkit existed, this folder was what was on your desktop for setting up a system after installing SynergyOS. It's a set of manual files and Configurations, split into numbered sections you'd work through in order.
+Before [SynToolkit](https://github.com/Synergy-Tweaks/SynToolkit) existed, this folder was what was on your desktop for setting up a system after installing SynergyOS. It's a set of manual files and Configurations, split into numbered sections you'd work through in order.
 
 ## What's inside
 
