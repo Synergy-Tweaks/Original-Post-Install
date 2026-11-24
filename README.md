@@ -4,6 +4,8 @@ This is the original [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS) po
 
 Before [SynToolkit](https://github.com/Synergy-Tweaks/SynToolkit) existed, this folder was what was on your desktop for setting up a system after installing SynergyOS. It's a set of manual files and Configurations, split into numbered sections you'd work through in order.
 
+The files are kept in sync with the `Executables/SOS` folder from the SynergyOS 1.7 release.
+
 ## What's inside
 
 - **1. GPU Install** — GPU driver setup
